@@ -36,4 +36,4 @@ async def ecofacto(ctx):
     await ctx.send(embed=embed)
 
 
-bot.run("MTQ4Njg5ODUwNjk5MDg3ODc2MA.GvBF2M.6Q3AzfLqUfekvS-xndkJ-wU9FY7TvuZIC3DHiA")
+bot.run("")
